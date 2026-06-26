@@ -2,8 +2,8 @@
 
 A custom System on Chip built in SystemVerilog featuring:
 
-5-stage pipelined RISC-V processor
-Memory-mapped peripherals
+5 stage pipelined RISC-V processor
+Memory mapped peripherals
 UART
 Timer
 VGA graphics controller

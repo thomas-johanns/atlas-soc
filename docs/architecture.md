@@ -1,0 +1,1 @@
+Goal 1: Design a complete CPU core architecture and implement it in SystemVerilog.
